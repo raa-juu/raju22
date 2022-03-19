@@ -1,0 +1,180 @@
+header{
+    background-image: url(../img/bg1.png);
+}
+header a img{
+    width: 100px;
+    margin-top: -130px;
+    margin-left: -10px;
+}
+.row.ms-0 {
+    margin: 0px 0px -35px 0px;
+}
+nav#mainNav {
+    margin: 0px 0px 0px -35px;
+}
+div#navbarResponsive {
+    margin-left: 30px;
+}
+div#navbarResponsive {
+    margin-left: -30px;
+    margin-right: -70px;
+}
+li.nav-item {
+    margin: auto;
+    padding: 0px 0px 0px 30px;
+}
+.col.ms-0.px-5 {
+    margin: 0px 50px 0px 0px;
+}
+li.nav-item {
+    margin: auto;
+    padding: 0px 0px 0px 30px;
+}
+.navbar{
+    margin: auto;
+    padding: 0px 220px;
+    background-color: #565655;
+}
+.header-content{
+
+}
+h1.text-white {
+    margin: auto;
+    padding: 170px 0px 0px 160px;
+}
+.header-content img{
+max-width: 225%;
+margin: auto;
+}
+p.text-warning.fs-3.text-center {
+    margin: auto;
+    padding: 0px 0px 0px 350px;
+}
+.img {
+    margin: auto;
+    padding: 88px 0px 0px 420px;
+}
+h1.text-white.ms-0.py-lg-5 {
+    margin: 215px 0px 0px 0px;
+    padding: 0px 0px 0px 320px;
+}
+
+/* about */
+#ABOUT{
+    background-image: url(../img/bg2.png);
+}
+.logo {
+    margin: auto;
+    padding: 15px 0px;
+}
+.parts {
+    margin: auto;
+    padding: 0px 730px 0px 0px;
+}
+button.border-0 {
+    margin: 0px 100px;
+    padding: 5px 10px;
+}
+/* menu */
+
+#MENU{
+    background-image: url(../img/bg1.png);
+    margin: auto;
+    padding: 0px 0px 0px 0px;
+}
+.strawbery img{
+    width: 550px;
+    height: 750px;
+    margin: auto;
+}
+.col.writing-part.my-5 {
+    margin: auto;
+    padding: 150px 0px 0px 0px;
+}
+span.fs-2 {
+    color: white;
+    margin: auto;
+    padding: 0px 15px;
+}
+h3.fs-2.text-center {
+    color: white;
+}
+p.my-5 {
+    color: white;
+}
+
+/* GALLERY */
+#GALLERY{
+    background-image: url(../img/bg1.png);
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 50px 0px;
+}
+
+.img.text-center {
+    margin: 0px 0px 0px 0px;
+    padding: 50px 0px 50px 0px;
+}
+
+/* BOOKINGS */
+#BOOKINGS{
+    background-image: url(../img/bg5.png);
+    margin: 0px 0px 0px 0px;
+    padding: 50px 0px 0px 0px;
+}
+button.text-center.bg-warning.border-0 {
+    margin: 0px 0px 30px 450px;
+    padding: 3px 60px;
+    border-radius: 5px;
+}
+.row.text-center {
+    margin: auto;
+    padding: 20px 0px;
+}
+button.ms-auto.py-2.px-5.bg-transparent.border-1.border-warning.text-white {
+    border-radius: 5px;
+}
+.write1-part.text-center.bg-black {
+    margin: auto;
+    padding: 30px 0px 30px 0px;
+}
+p.text-center.text-white {
+    margin: auto;
+    padding: 20px 0px;
+}
+
+/* CONTACT */
+#CONTACT{
+    background-image: url(../img/black.png);
+    margin: 0px 0px 0px 0px;
+}
+h4.text-warning.fs-3 {
+    margin: auto;
+    padding: 0px 0px 0px 40px;
+}
+p.text-white {
+    margin: auto;
+    padding: 15px 775px 15px 0px;
+    text-align: center;
+}
+button.text-warning.border-0.bg-transparent.fs-3 {
+    margin: auto;
+    padding: 0px 0px 0px 49px;
+}
+.img-fluid2 {
+    max-width: 100%;
+    height: auto;
+    margin: -290px 0px 0px 0px;
+}
+
+/* BLOG */
+#BLOG {
+   background-image: url(../img/black.png);
+   margin: -200px 0px 0px 0px;
+}
+.img-fluid3{
+   width: 15%;
+}
+img.img-fluid5.ms-auto.py-4 {
+    margin: auto;
+    padding: 0px 10px;
+}
